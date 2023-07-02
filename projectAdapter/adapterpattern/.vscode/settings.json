@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "/Users/Prantick/Desktop/javaSample/com.designPatterns/adapter/**/*.jar",
+            "src/com/adapterPattern/json-simple-1.1.1.jar"
+        ],
+        "exclude": [
+            "/Users/Prantick/Desktop/javaSample/com.designPatterns/adapter/json-simple-1.1.1.jar"
+        ]
+    }
+}
